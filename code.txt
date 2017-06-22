@@ -3,3 +3,4 @@ ligne de code 2 modifié
 ligne de code 3 modif locale
 ligne 4 locale
 ligne 5 créée sur branche devLogin
+ligne 6 créée sur branche devLogin
