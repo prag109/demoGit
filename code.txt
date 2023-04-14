@@ -1,3 +1,4 @@
 ligne 1
-ligne 2 modifiée
+ligne 2 modifiée modif locale
 ajout ligne 3
+ajout local
