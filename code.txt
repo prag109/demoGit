@@ -1,7 +1,7 @@
 ligne 1
 ligne 2 modifiée modif locale
 ajout ligne 3
-ajout local
+ajout local modif ligne 4
 ligne 2 modifiée remodifiée sur github
 ajout ligne 3
 ajout sur github
